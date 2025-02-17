@@ -29,13 +29,13 @@ Defines the GACL-Net architecture, including:
 - Hierarchical feature aggregation & dense layers
   
 **4. Model Training & Evaluation (Model_Training.py)**
-- Loads extracted features and applies data augmentation & normalization.
+Loads extracted features and applies data augmentation & normalization.
 
-- Splits the dataset into training, validation, and test sets.
+Splits the dataset into training, validation, and test sets.
 
-- Trains GACL-Net with cross-entropy loss & Adam optimizer.
+Trains GACL-Net with cross-entropy loss & Adam optimizer.
 
-- Evaluates accuracy, precision, recall, and F1-score.
+Evaluates accuracy, precision, recall, and F1-score.
   
 **5. Statistical Analysis (Statistical_Analysis.py)**
 Performs ANOVA-based statistical analysis on EEG variability across stroke patients.
