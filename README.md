@@ -37,7 +37,7 @@ Defines the GACL-Net architecture, including:
 **5. Statistical Analysis (Statistical_Analysis.py)**
 Performs ANOVA-based statistical analysis on EEG variability across stroke patients.
 
-# Please cite our article:
+# If you find this work useful, please cite our article:
 
 # Publicly available datasets used in the article:
 
