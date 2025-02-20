@@ -38,6 +38,7 @@ Defines the GACL-Net architecture, including:
 Performs ANOVA-based statistical analysis on EEG variability across stroke patients.
 
 # If you find this work useful, please cite our article:
+Bunterngchit, C., Baniata, J.H., Baniata, M.H., ALDabbas, A., Khair, M.A., Chearanai, T. & Kang, S. (2025). GACL-Net: Hybrid Deep Learning Framework for Accurate Motor Imagery Classification in Stroke Rehabilitation. Computers, Materials & Continua. 82(3). (in-press) https://dx.doi.org/10.32604/cmc.2025.060368
 
 # Publicly available datasets used in the article:
 
